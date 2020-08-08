@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    @Scripts.Render("~/bundles/modernizr")
+    @Styles.Render("~/Content/Site.css")
+
+    @Styles.Render("https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css")
+
+    @Scripts.Render("https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js")
+    @Scripts.Render("https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js")
+
+
+
+
+
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/bootstrap-theme.min.css")
+    @Styles.Render("css/bootstrap.min.css")
+    @Styles.Render("css/font-awesome.min.css")
+    @Styles.Render("css/owl.carousel.css")
+    @Styles.Render("css/style.css")
+
+    @section scripts
+    {
+        <script>
+            function subscribe() {
+                alert("You have successfully subscribed to our newsletter!");
+            }
+        </script>
+    }
+
+</head>
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+            
+            <a href="/Home/Index" class="navbar-brand"> <img src="~/images/logo.png" alt="Company logo" width="35" height="30" /> </a>
+            <div class="navbar-header">
+                <a class="navbar-brand " href="@Url.Action("Index", "Home")#features">Pakistan National Training Services</a>
+            </div>
+            <form class="navbar-form navbar-right" action="/action_page.php">
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Search" name="search">
+                </div>
+                <button type="submit" class="btn btn-primary">Search</button>
+            </form>
+
+            <ul class="nav navbar-nav navbar-right">
+
+                <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                <li>@Html.ActionLink("Courses", "Index", "Courses")</li>
+                <li>@Html.ActionLink("Users", "Index", "Users")</li>
+                <li>@Html.ActionLink("Registrations", "Index", "Registers")</li>
+                <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                <li>@Html.ActionLink("Login", "Login", "Users")</li>
+                <li>@Html.ActionLink("Sign Up", "Create", "Users")</li>
+
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer id="site-footer" class="sitebg" role="contentinfo">
+            <div class="overlay"></div>
+            
+                <div class="row copyright">
+                    <div class="col-md-12 text-center">
+                        <p>
+                            <small class="block">&copy; 2020 | All Rights Reserved.</small>
+                            <small class="block">Shahzaib Ayyub - 17i-0251</small>
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

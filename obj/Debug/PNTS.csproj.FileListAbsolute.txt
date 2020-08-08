@@ -1,0 +1,432 @@
+D:\PNTS\PNTS\bin\PNTS.dll.config
+D:\PNTS\PNTS\bin\PNTS.dll
+D:\PNTS\PNTS\bin\PNTS.pdb
+D:\PNTS\PNTS\bin\roslyn\csc.exe
+D:\PNTS\PNTS\bin\roslyn\csc.exe.config
+D:\PNTS\PNTS\bin\roslyn\csc.rsp
+D:\PNTS\PNTS\bin\roslyn\csi.exe
+D:\PNTS\PNTS\bin\roslyn\csi.exe.config
+D:\PNTS\PNTS\bin\roslyn\csi.rsp
+D:\PNTS\PNTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PNTS\PNTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PNTS\PNTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PNTS\PNTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PNTS\PNTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PNTS\PNTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PNTS\PNTS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PNTS\PNTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PNTS\PNTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PNTS\PNTS\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PNTS\PNTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PNTS\PNTS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PNTS\PNTS\bin\roslyn\System.AppContext.dll
+D:\PNTS\PNTS\bin\roslyn\System.Collections.Immutable.dll
+D:\PNTS\PNTS\bin\roslyn\System.Console.dll
+D:\PNTS\PNTS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\PNTS\PNTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PNTS\PNTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PNTS\PNTS\bin\roslyn\System.Globalization.Calendars.dll
+D:\PNTS\PNTS\bin\roslyn\System.IO.Compression.dll
+D:\PNTS\PNTS\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\PNTS\PNTS\bin\roslyn\System.IO.FileSystem.dll
+D:\PNTS\PNTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PNTS\PNTS\bin\roslyn\System.Net.Http.dll
+D:\PNTS\PNTS\bin\roslyn\System.Net.Sockets.dll
+D:\PNTS\PNTS\bin\roslyn\System.Reflection.Metadata.dll
+D:\PNTS\PNTS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PNTS\PNTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PNTS\PNTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PNTS\PNTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PNTS\PNTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PNTS\PNTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PNTS\PNTS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PNTS\PNTS\bin\roslyn\System.ValueTuple.dll
+D:\PNTS\PNTS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PNTS\PNTS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PNTS\PNTS\bin\roslyn\System.Xml.XPath.dll
+D:\PNTS\PNTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PNTS\PNTS\bin\roslyn\vbc.exe
+D:\PNTS\PNTS\bin\roslyn\vbc.exe.config
+D:\PNTS\PNTS\bin\roslyn\vbc.rsp
+D:\PNTS\PNTS\bin\roslyn\VBCSCompiler.exe
+D:\PNTS\PNTS\bin\roslyn\VBCSCompiler.exe.config
+D:\PNTS\PNTS\bin\Antlr3.Runtime.dll
+D:\PNTS\PNTS\bin\EntityFramework.dll
+D:\PNTS\PNTS\bin\EntityFramework.SqlServer.dll
+D:\PNTS\PNTS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PNTS\PNTS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PNTS\PNTS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PNTS\PNTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PNTS\PNTS\bin\Microsoft.Owin.dll
+D:\PNTS\PNTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PNTS\PNTS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PNTS\PNTS\bin\Microsoft.Owin.Security.dll
+D:\PNTS\PNTS\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PNTS\PNTS\bin\Microsoft.Owin.Security.Google.dll
+D:\PNTS\PNTS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PNTS\PNTS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PNTS\PNTS\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PNTS\PNTS\bin\Microsoft.Web.Infrastructure.dll
+D:\PNTS\PNTS\bin\Newtonsoft.Json.dll
+D:\PNTS\PNTS\bin\Owin.dll
+D:\PNTS\PNTS\bin\System.Web.Helpers.dll
+D:\PNTS\PNTS\bin\System.Web.Mvc.dll
+D:\PNTS\PNTS\bin\System.Web.Optimization.dll
+D:\PNTS\PNTS\bin\System.Web.Razor.dll
+D:\PNTS\PNTS\bin\System.Web.WebPages.Deployment.dll
+D:\PNTS\PNTS\bin\System.Web.WebPages.dll
+D:\PNTS\PNTS\bin\System.Web.WebPages.Razor.dll
+D:\PNTS\PNTS\bin\WebGrease.dll
+D:\PNTS\PNTS\bin\System.Web.Helpers.xml
+D:\PNTS\PNTS\bin\System.Web.Mvc.xml
+D:\PNTS\PNTS\bin\System.Web.Optimization.xml
+D:\PNTS\PNTS\bin\System.Web.Razor.xml
+D:\PNTS\PNTS\bin\System.Web.WebPages.xml
+D:\PNTS\PNTS\bin\System.Web.WebPages.Deployment.xml
+D:\PNTS\PNTS\bin\System.Web.WebPages.Razor.xml
+D:\PNTS\PNTS\bin\Newtonsoft.Json.xml
+D:\PNTS\PNTS\bin\Antlr3.Runtime.pdb
+D:\PNTS\PNTS\bin\EntityFramework.xml
+D:\PNTS\PNTS\bin\EntityFramework.SqlServer.xml
+D:\PNTS\PNTS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PNTS\PNTS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PNTS\PNTS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PNTS\PNTS\bin\Microsoft.Owin.xml
+D:\PNTS\PNTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PNTS\PNTS\bin\Microsoft.Owin.Security.xml
+D:\PNTS\PNTS\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PNTS\PNTS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PNTS\PNTS\bin\Microsoft.Owin.Security.Google.xml
+D:\PNTS\PNTS\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PNTS\PNTS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PNTS\PNTS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PNTS\PNTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PNTS\PNTS\obj\Debug\PNTS.csprojAssemblyReference.cache
+D:\PNTS\PNTS\obj\Debug\PNTS.csproj.CoreCompileInputs.cache
+D:\PNTS\PNTS\obj\Debug\PNTS.csproj.CopyComplete
+D:\PNTS\PNTS\obj\Debug\PNTS.dll
+D:\PNTS\PNTS\obj\Debug\PNTS.pdb
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\PNTS.dll.config
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\PNTS.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\PNTS.pdb
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\csc.exe
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\csc.exe.config
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\csc.rsp
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\csi.exe
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\csi.exe.config
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\csi.rsp
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.AppContext.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.Collections.Immutable.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.Console.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.Globalization.Calendars.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.IO.Compression.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.IO.FileSystem.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.Net.Http.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.Net.Sockets.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.Reflection.Metadata.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.ValueTuple.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.Xml.XPath.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\vbc.exe
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\vbc.exe.config
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\vbc.rsp
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\VBCSCompiler.exe
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\roslyn\VBCSCompiler.exe.config
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Antlr3.Runtime.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\EntityFramework.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\EntityFramework.SqlServer.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.Owin.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.Owin.Security.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.Owin.Security.Google.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.Web.Infrastructure.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Newtonsoft.Json.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Owin.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\System.Web.Helpers.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\System.Web.Mvc.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\System.Web.Optimization.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\System.Web.Razor.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\System.Web.WebPages.Deployment.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\System.Web.WebPages.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\System.Web.WebPages.Razor.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\WebGrease.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\EntityFramework.xml
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\EntityFramework.SqlServer.xml
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\System.Web.Helpers.xml
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\System.Web.Mvc.xml
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\System.Web.Optimization.xml
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\System.Web.Razor.xml
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\System.Web.WebPages.xml
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\System.Web.WebPages.Deployment.xml
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\System.Web.WebPages.Razor.xml
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Newtonsoft.Json.xml
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Antlr3.Runtime.pdb
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.Owin.xml
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.Owin.Security.xml
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.Owin.Security.Google.xml
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\obj\Debug\PNTS.csprojAssemblyReference.cache
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\obj\Debug\PNTS.csproj.CoreCompileInputs.cache
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\obj\Debug\PNTS.csproj.CopyComplete
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\obj\Debug\PNTS.dll
+G:\Sem 6\WP\Assignment3\Shahzaib new 1\p1\PNTS\obj\Debug\PNTS.pdb
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\PNTS.dll.config
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\PNTS.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\PNTS.pdb
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\csc.exe
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\csc.exe.config
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\csc.rsp
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\csi.exe
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\csi.exe.config
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\csi.rsp
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.AppContext.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.Collections.Immutable.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.Console.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.Globalization.Calendars.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.IO.Compression.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.IO.FileSystem.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.Net.Http.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.Net.Sockets.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.Reflection.Metadata.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.ValueTuple.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.Xml.XPath.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\vbc.exe
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\vbc.exe.config
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\vbc.rsp
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\VBCSCompiler.exe
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\roslyn\VBCSCompiler.exe.config
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Antlr3.Runtime.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\EntityFramework.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\EntityFramework.SqlServer.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.Owin.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.Owin.Security.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.Owin.Security.Google.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.Web.Infrastructure.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Newtonsoft.Json.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Owin.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\System.Web.Helpers.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\System.Web.Mvc.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\System.Web.Optimization.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\System.Web.Razor.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\System.Web.WebPages.Deployment.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\System.Web.WebPages.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\System.Web.WebPages.Razor.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\WebGrease.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\EntityFramework.xml
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\EntityFramework.SqlServer.xml
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\System.Web.Helpers.xml
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\System.Web.Mvc.xml
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\System.Web.Optimization.xml
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\System.Web.Razor.xml
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\System.Web.WebPages.xml
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\System.Web.WebPages.Deployment.xml
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\System.Web.WebPages.Razor.xml
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Newtonsoft.Json.xml
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Antlr3.Runtime.pdb
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.Owin.xml
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.Owin.Security.xml
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.Owin.Security.Google.xml
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Sem 6\WP\Assignment3 New\PNTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Sem 6\WP\Assignment3 New\PNTS\obj\Debug\PNTS.csprojAssemblyReference.cache
+G:\Sem 6\WP\Assignment3 New\PNTS\obj\Debug\PNTS.csproj.CoreCompileInputs.cache
+G:\Sem 6\WP\Assignment3 New\PNTS\obj\Debug\PNTS.csproj.CopyComplete
+G:\Sem 6\WP\Assignment3 New\PNTS\obj\Debug\PNTS.dll
+G:\Sem 6\WP\Assignment3 New\PNTS\obj\Debug\PNTS.pdb
+D:\Chrome Downloads\PNTS\bin\PNTS.dll.config
+D:\Chrome Downloads\PNTS\bin\PNTS.dll
+D:\Chrome Downloads\PNTS\bin\PNTS.pdb
+D:\Chrome Downloads\PNTS\bin\roslyn\csc.exe
+D:\Chrome Downloads\PNTS\bin\roslyn\csc.exe.config
+D:\Chrome Downloads\PNTS\bin\roslyn\csc.rsp
+D:\Chrome Downloads\PNTS\bin\roslyn\csi.exe
+D:\Chrome Downloads\PNTS\bin\roslyn\csi.exe.config
+D:\Chrome Downloads\PNTS\bin\roslyn\csi.rsp
+D:\Chrome Downloads\PNTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Chrome Downloads\PNTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Chrome Downloads\PNTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Chrome Downloads\PNTS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.AppContext.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.Collections.Immutable.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.Console.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.Globalization.Calendars.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.IO.Compression.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.IO.FileSystem.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.Net.Http.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.Net.Sockets.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.ValueTuple.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.Xml.XPath.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Chrome Downloads\PNTS\bin\roslyn\vbc.exe
+D:\Chrome Downloads\PNTS\bin\roslyn\vbc.exe.config
+D:\Chrome Downloads\PNTS\bin\roslyn\vbc.rsp
+D:\Chrome Downloads\PNTS\bin\roslyn\VBCSCompiler.exe
+D:\Chrome Downloads\PNTS\bin\roslyn\VBCSCompiler.exe.config
+D:\Chrome Downloads\PNTS\bin\Antlr3.Runtime.dll
+D:\Chrome Downloads\PNTS\bin\EntityFramework.dll
+D:\Chrome Downloads\PNTS\bin\EntityFramework.SqlServer.dll
+D:\Chrome Downloads\PNTS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Chrome Downloads\PNTS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Chrome Downloads\PNTS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Chrome Downloads\PNTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Chrome Downloads\PNTS\bin\Microsoft.Owin.dll
+D:\Chrome Downloads\PNTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Chrome Downloads\PNTS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Chrome Downloads\PNTS\bin\Microsoft.Owin.Security.dll
+D:\Chrome Downloads\PNTS\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Chrome Downloads\PNTS\bin\Microsoft.Owin.Security.Google.dll
+D:\Chrome Downloads\PNTS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Chrome Downloads\PNTS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Chrome Downloads\PNTS\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Chrome Downloads\PNTS\bin\Microsoft.Web.Infrastructure.dll
+D:\Chrome Downloads\PNTS\bin\Newtonsoft.Json.dll
+D:\Chrome Downloads\PNTS\bin\Owin.dll
+D:\Chrome Downloads\PNTS\bin\System.Web.Helpers.dll
+D:\Chrome Downloads\PNTS\bin\System.Web.Mvc.dll
+D:\Chrome Downloads\PNTS\bin\System.Web.Optimization.dll
+D:\Chrome Downloads\PNTS\bin\System.Web.Razor.dll
+D:\Chrome Downloads\PNTS\bin\System.Web.WebPages.Deployment.dll
+D:\Chrome Downloads\PNTS\bin\System.Web.WebPages.dll
+D:\Chrome Downloads\PNTS\bin\System.Web.WebPages.Razor.dll
+D:\Chrome Downloads\PNTS\bin\WebGrease.dll
+D:\Chrome Downloads\PNTS\bin\EntityFramework.xml
+D:\Chrome Downloads\PNTS\bin\EntityFramework.SqlServer.xml
+D:\Chrome Downloads\PNTS\bin\System.Web.Helpers.xml
+D:\Chrome Downloads\PNTS\bin\System.Web.Mvc.xml
+D:\Chrome Downloads\PNTS\bin\System.Web.Optimization.xml
+D:\Chrome Downloads\PNTS\bin\System.Web.Razor.xml
+D:\Chrome Downloads\PNTS\bin\System.Web.WebPages.xml
+D:\Chrome Downloads\PNTS\bin\System.Web.WebPages.Deployment.xml
+D:\Chrome Downloads\PNTS\bin\System.Web.WebPages.Razor.xml
+D:\Chrome Downloads\PNTS\bin\Newtonsoft.Json.xml
+D:\Chrome Downloads\PNTS\bin\Antlr3.Runtime.pdb
+D:\Chrome Downloads\PNTS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Chrome Downloads\PNTS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Chrome Downloads\PNTS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Chrome Downloads\PNTS\bin\Microsoft.Owin.xml
+D:\Chrome Downloads\PNTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Chrome Downloads\PNTS\bin\Microsoft.Owin.Security.xml
+D:\Chrome Downloads\PNTS\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Chrome Downloads\PNTS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Chrome Downloads\PNTS\bin\Microsoft.Owin.Security.Google.xml
+D:\Chrome Downloads\PNTS\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Chrome Downloads\PNTS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Chrome Downloads\PNTS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Chrome Downloads\PNTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Chrome Downloads\PNTS\obj\Debug\PNTS.csprojAssemblyReference.cache
+D:\Chrome Downloads\PNTS\obj\Debug\PNTS.csproj.CoreCompileInputs.cache
+D:\Chrome Downloads\PNTS\obj\Debug\PNTS.csproj.CopyComplete
+D:\Chrome Downloads\PNTS\obj\Debug\PNTS.dll
+D:\Chrome Downloads\PNTS\obj\Debug\PNTS.pdb
