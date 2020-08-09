@@ -19,5 +19,5 @@ IIS EXPRESS
 * On Google Chrome, in a new tab will appear running our ADDA Bus Services web app.
 
 
-### Feel free to use this Food App and make changes as you wish. Thanks and Happy Coding!
+### Feel free to use this App and make changes as you wish. Thanks and Happy Coding!
 
